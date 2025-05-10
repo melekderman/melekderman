@@ -1,4 +1,4 @@
-## 📊 GitHub Statistics
+
 ![Visitors](https://komarev.com/ghpvc/?username=melekderman&label=Profile%20views&color=blue)
 
 ![Melek's GitHub stats](https://github-readme-stats.vercel.app/api?username=melekderman&theme=radical&show_icons=true)
