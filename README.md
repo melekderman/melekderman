@@ -1,3 +1,10 @@
+![Visitors](https://komarev.com/ghpvc/?username=melekderman&label=Profile%20views&color=blue)
+![Location](https://img.shields.io/badge/Location-OR-pink)
+![Languages](https://img.shields.io/badge/Language-Turkish%20%7C%20English-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?logo=linkedin&logoColor=white)](https://linkedin.com/in/melekderman)
+[![E-mail](https://img.shields.io/badge/E--mail-dermanm@oregonstate.edu-blue)](mailto:dermanm@oregonstate.edu)
+[![Website](https://img.shields.io/badge/website-pink)](https://melekderman.github.io)
+
 | <a href="https://github.com/melekderman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melekderman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
