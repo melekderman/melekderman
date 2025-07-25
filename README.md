@@ -13,8 +13,8 @@
 <a href="https://github.com/melekderman/BFP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=BFP&theme=buefy" />
 </a>
-<a href="https://github.com/melekderman/melekderman.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=melekderman.github.io&theme=buefy" />
+<a href="https://github.com/melekderman/MCDC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=MCDC&theme=buefy" />
 </a>
 
 
