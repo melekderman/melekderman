@@ -16,6 +16,9 @@
 <a href="https://github.com/melekderman/MCDC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=MCDC&theme=buefy" />
 </a>
+<a href="https://github.com/melekderman/PyEEDL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=PyEEDL&theme=buefy" />
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
