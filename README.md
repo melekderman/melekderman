@@ -19,6 +19,9 @@
 <a href="https://github.com/melekderman/PyEEDL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=PyEEDL&theme=buefy" />
 </a>
+<a href="https://github.com/melekderman/MyDocs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=MyDocs&theme=buefy" />
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
