@@ -4,23 +4,23 @@
 [![Website](https://img.shields.io/badge/website-pink)](https://melekderman.github.io)
 ![Location](https://img.shields.io/badge/Location-OR-blue)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api?username=melekderman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Melek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api/top-langs/?username=melekderman&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melekderman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Melek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/melekderman/BFP">
-  <img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api/pin/?username=melekderman&repo=BFP&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=BFP&theme=buefy" />
 </a>
 <a href="https://github.com/melekderman/MCDC">
-  <img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api/pin/?username=melekderman&repo=MCDC&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=MCDC&theme=buefy" />
 </a>
 <a href="https://github.com/melekderman/PyEEDL">
-  <img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api/pin/?username=melekderman&repo=PyEEDL&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=PyEEDL&theme=buefy" />
 </a>
 <a href="https://github.com/melekderman/MyDocs">
-  <img align="center" src="https://ghstats-melekdermans-projects.vercel.app/api/pin/?username=melekderman&repo=MyDocs&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melekderman&repo=MyDocs&theme=buefy" />
 </a>
 
 
@@ -30,4 +30,3 @@
 <a href="https://stackoverflow.com/users/28802792/melek-derman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="melekderman" height="30" width="40" /></a>
 <a href="https://kaggle.com/melekderman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melekderman" height="30" width="40" /></a>
 </p>
-
