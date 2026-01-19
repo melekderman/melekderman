@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/website-pink)](https://melekderman.github.io)
 ![Location](https://img.shields.io/badge/Location-OR-blue)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api?username=melekderman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Melek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api?username=melekderman&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" alt="Melek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&hide_progress=true&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
