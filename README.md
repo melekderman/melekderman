@@ -17,8 +17,8 @@
 <a href="https://github.com/melekderman/MCDC">
   <img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/pin/?username=melekderman&repo=MCDC&theme=buefy" style="margin-bottom:8px;"/>
 </a>
-<a href="https://github.com/melekderman/PyEEDL">
-  <img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/pin/?username=melekderman&repo=PyEEDL&theme=buefy" />
+<a href="https://github.com/melekderman/PyEPICS">
+  <img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/pin/?username=melekderman&repo=PyEPICS&theme=buefy" />
 </a>
 <a href="https://github.com/melekderman/MyDocs">
   <img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/pin/?username=melekderman&repo=MyDocs&theme=buefy"/>
