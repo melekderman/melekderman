@@ -6,7 +6,7 @@
 
 <hr style="border:2px solid gray">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api?username=melekderman&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" alt="Melek's github stats" style="margin-right:35px;"/></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&hide_progress=true&theme=dracula&hide_border=true" /></a> 
+<img align="center" src="https://vercel-melek-gh-stats.vercel.app/api?username=melekderman&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" alt="Melek's github stats" style="margin-right:35px;"/></a> <img align="center" src="https://vercel-melek-gh-stats.vercel.app/api/top-langs/?username=melekderman&layout=compact&hide_progress=true&theme=dracula&hide_border=true" /></a> 
 <hr style="border:2px solid gray">
 
 #### Top Repositories
